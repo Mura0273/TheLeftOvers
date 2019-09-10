@@ -1,20 +1,20 @@
 ﻿{
-  "iisSettings": {
-    "windowsAuthentication": false, 
-    "anonymousAuthentication": true, 
-    "iisExpress": {
-      "applicationUrl": "http://localhost:63555",
-      "sslPort": 44341
-    }
-  },
-  "profiles": {
-    "IIS Express": {
-      "commandName": "IISExpress",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
+  //"iisSettings": {
+  //  "windowsAuthentication": false, 
+  //  "anonymousAuthentication": true, 
+  //  "iisExpress": {
+  //    "applicationUrl": "http://localhost:63555",
+  //    "sslPort": 44341
+  //  }
+  //},
+  //"profiles": {
+  //  "IIS Express": {
+  //    "commandName": "IISExpress",
+  //    "launchBrowser": true,
+  //    "environmentVariables": {
+  //      "ASPNETCORE_ENVIRONMENT": "Development"
+  //    }
+  //  },
     "TheLeftOvers": {
       "commandName": "Project",
       "launchBrowser": true,

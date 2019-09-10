@@ -7,10 +7,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace TheLeftOvers.Pages
 {
-    public class PrivacyModel : PageModel
+    public class ProductsModel : PageModel
     {
         public void OnGet()
         {
+
         }
     }
 }
