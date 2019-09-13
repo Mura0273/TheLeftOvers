@@ -1,0 +1,29 @@
+Netværkstopologier:
+Netværkstopologier er forholdet mellem tilsluttede netværksenheder.
+
+OSI: 
+OSI-modellen (Open system interconnection) er et internationalt standardiseringsorgan, som har syv lag, hvor hvert lag beskriver en anden funktion af data, der rejser gennem et netværk.
+
+TCP/IP:
+Ligesom OSI-modellen beskriver den generelle retningslinjer for design og implementering af computer protokoller, men det består kun af fire lag.
+
+Hvorfor MAC-adresser bruges ( Log-in baseret):
+MAC (Media access control) adresse er en 48.bit adresse der er brændt på netværks enheden. Det er altså den rigtige adresse af enheden, altså den fysiske adresse.
+
+Collisions domain:
+Et Collision domain er den del af netværket, hvor "packet" kan kollidere med hinanden. Man kan også definer det som hvor mange enheder kan sende data på samme tid.
+
+Sim/Half/Full duplex:
+Simplex kommunikation, hvor kommunikationen er en ensrettet vej, tænk på radio.
+Haf duplex kommunikation, er en to vejs kommunikation, men data kan kun sendes en af gangen, tænk på en walkie talkie.
+Full duplex kommunikation, er også en to vejs kommunikation hvor data kan sendes samtidigt, tænk på en telefon samtale.
+
+Connection-oriented og connection-less service:
+Connection-oriented: Der bliver dannet en kommunikation mellem netværksenheder før data bliver sendt.
+Connection-less: Hver dataenhed adresseres individuelt og sendes, altså real time.
+
+Host:
+Host er et generisk term for alle endestations-device (vores hjemmeside) på internettet.
+
+Address Resolution Protocol:
+ARP vil bruge en kendt IP adresse, for at finde den ukendte MAC-Adresse. Den nu opdaget MAC-Adresse vil nu blive tilføjet til en ARP-table, som er en tabel af IP-adresser der er tilknyttet til deres respektive MAC-adresser.
